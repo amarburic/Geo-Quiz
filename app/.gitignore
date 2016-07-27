@@ -1,0 +1,9 @@
+/src/test
+/src/androidTest
+*.gradle
+*.pro
+*.iml
+/libs
+/build/generated
+/build/intermediates
+/build/tmp
