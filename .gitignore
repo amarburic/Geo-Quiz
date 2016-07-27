@@ -3,6 +3,8 @@
 *.properties
 .gradle
 .idea
+gradew
+gradlew.bat
 /gradle
 /local.properties
 /.idea/workspace.xml
